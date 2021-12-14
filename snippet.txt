@@ -9,4 +9,4 @@
     <div id="ar-prompt">
         <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
     </div>
-<DuoProtect>
+</model-viewer>
